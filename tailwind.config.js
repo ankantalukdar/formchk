@@ -3,6 +3,9 @@ module.exports = {
   content: ["./*.html"],
   theme: {
     extend: {
+      fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"],
+      },
       colors: {
         secondary: {
           light: "#FAFAFA",
@@ -17,4 +20,4 @@ module.exports = {
     },
   },
   plugins: [],
-}
+};
