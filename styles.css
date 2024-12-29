@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: "Montserrat";
-  src: url("/fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
+  src: url("/fonts/Montserrat-VariableFont_wght.ttf");
   font-weight: 400 600;
   font-stretch: normal;
 }
